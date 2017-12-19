@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="metawear-2.6.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android App/libs/metawear-2.6.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
