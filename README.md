@@ -1,4 +1,4 @@
-# CommBox: Cricket Shot Identification and Comentary Generation using Sensors
+# CommBox: Cricket Shot Identification and Commentary Generation using Sensors
 
 Online cricket commentary has become very popular as the internet provides access to a large number of sports websites. A key challenge for them is to offer their readers an insightful and fast paced live commentary. In this project, we propose a framework to automate cricket shot identification and commentary generation using sensor data as features for machine learning models.
 
